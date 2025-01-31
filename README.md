@@ -2,7 +2,13 @@
 
 ### Backend
 
-Para iniciar en local utilizar este comando
+Entrar a la carpeta backend
+
+```bash
+cd backend/
+```
+
+Iniciar en local utilizar este comando
 
 ```bash
 dotnet run
@@ -10,13 +16,19 @@ dotnet run
 
 ### Frontend
 
-Primeramente instalar librerias:
+Entrar a la carpeta backend
+
+```bash
+cd frontend/
+```
+
+Instalar librerias
 
 ```bash
 npm install
 ```
 
-Posteriormente arrancar frontend en local utilizando este comando
+Arrancar en local utilizando este comando
 
 ```bash
 ng serve

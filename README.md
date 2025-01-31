@@ -16,7 +16,7 @@ dotnet run
 
 ### Frontend
 
-Entrar a la carpeta backend
+Entrar a la carpeta frontend
 
 ```bash
 cd frontend/
